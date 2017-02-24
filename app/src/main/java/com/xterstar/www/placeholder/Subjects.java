@@ -98,6 +98,14 @@ public class Subjects extends AppCompatActivity {
             }
         });
 
+        final Button otherbutton = (Button) findViewById(R.id.otherbutton);
+        otherbutton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent registerIntent = new Intent(Subjects.this, otherClass.class);
+                Subjects.this.startActivity(registerIntent);
+            }
+        });
+
 
     }
 }

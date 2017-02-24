@@ -10,7 +10,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/> //FIREBASE
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        //FIREBASE
         <activity
             android:name=".Login"
             android:label="Login">
@@ -44,7 +47,9 @@
         <activity android:name=".psychClass" />
         <activity android:name=".poliClass" />
         <activity android:name=".otherClass" />
-        <activity android:name=".ethClass"></activity>
+        <activity android:name=".PostTest" />
+        <activity android:name=".ethClass" />
+        <activity android:name=".PostActivity"></activity>
     </application>
 
 </manifest>
