@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "847062558279",
+    "firebase_url": "https://placeholder-auth.firebaseio.com",
+    "project_id": "placeholder-auth",
+    "storage_bucket": "placeholder-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847062558279:android:27121768509cf2d4",
+        "android_client_info": {
+          "package_name": "com.xterstar.www.placeholder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847062558279-h23fdhppocc5nobne4op83a0j9gho3dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xterstar.www.placeholder",
+            "certificate_hash": "6e99a5bf30256221969fa56216a1d58575202522"
+          }
+        },
+        {
+          "client_id": "847062558279-re6p3hv13p3rup0vm77r3iaic2l6h0b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfIapRVItmu7lrxnCNhPN1qHpRa4PNPAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847062558279-re6p3hv13p3rup0vm77r3iaic2l6h0b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
